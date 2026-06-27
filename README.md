@@ -1,6 +1,6 @@
 # ESP32 Flight Tracker ✈️
 
-A real-time, live Flight Tracker built for the ESP32-S3. This project utilizes the OpenSky Network API to fetch live aircraft data and renders them on a beautiful dual-screen setup (TFT + OLED) with a dual-core architecture. 
+A near real-time, live Flight Tracker built for the ESP32-S3. This project utilizes the OpenSky Network API to fetch live aircraft data (polling every 120 seconds) and renders them on a beautiful dual-screen setup (TFT + OLED) with a dual-core architecture. 
 
 It was originally built as a module for a custom handheld game console, but has been extracted here as a standalone project for anyone to build and enjoy!
 
